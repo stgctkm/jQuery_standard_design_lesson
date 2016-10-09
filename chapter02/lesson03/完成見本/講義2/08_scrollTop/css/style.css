@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+margin:50px;
+}
+
+p{
+width:200px;
+padding:50px;
+position:fixed;
+top:0;
+right:0;
+}
+
+div{
+width:320px;
+margin:10px 0;
+}
+

@@ -1,0 +1,6 @@
+$(function(){
+
+	$("p").addClass("textRed");
+
+});
+
